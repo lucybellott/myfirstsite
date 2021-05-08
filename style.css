@@ -1,0 +1,60 @@
+body {
+    background: black;
+    background-image: url(https://free-images.com/lg/a03a/route_66_usa_holiday.jpg);
+}
+
+  h1 {
+      font-family: 'Dancing Script', cursive;
+      text-align: center;
+      font-size: 100px;
+      color:whitesmoke;
+  }
+  nav {
+      background-color: black;
+  }
+   nav a {
+      text-align: center;
+      color:whitesmoke;
+      padding-right: 10px;
+      padding-left: 10px;
+      margin-left: 120px;
+      margin-right: 60px;
+      font-family:monospace;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+      .dark-background {
+          background: black;
+          color:whitesmoke;
+          padding-right: 10px;
+          padding-left: 10px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+      }
+      main {
+          text-align: center;
+          font-family: monospace;
+          color:whitesmoke;
+          font-size: 17px;
+          margin-left: 150px;
+          margin-right: 150px;
+      }
+
+      h2 {
+          font-family: 'Dancing Script', cursive;
+          font-size: 40px;
+      }
+      img {
+          text-align: center;
+          max-width: 500px;
+      }
+      footer {
+          text-align: center;
+          font-family: monospace;
+      }
+      #copyright{
+          font-family: monospace;
+          font-size: 15px;
+          color: blanchedalmond;
+      }
